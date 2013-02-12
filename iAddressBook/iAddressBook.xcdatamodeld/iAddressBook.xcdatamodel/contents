@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model name="" userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="2057" systemVersion="11G63" minimumToolsVersion="Automatic" macOSVersion="Automatic" iOSVersion="Automatic">
+    <entity name="Contact">
+        <attribute name="company" optional="YES" attributeType="String">
+            <userInfo/>
+        </attribute>
+        <attribute name="email" optional="YES" attributeType="String">
+            <userInfo/>
+        </attribute>
+        <attribute name="first_name" optional="YES" attributeType="String">
+            <userInfo/>
+        </attribute>
+        <attribute name="last_name" optional="YES" attributeType="String">
+            <userInfo/>
+        </attribute>
+        <attribute name="mobile" optional="YES" attributeType="String">
+            <userInfo/>
+        </attribute>
+        <userInfo/>
+    </entity>
+    <elements>
+        <element name="Contact" positionX="261" positionY="189" width="128" height="120"/>
+    </elements>
+</model>
